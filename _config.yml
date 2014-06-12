@@ -4,6 +4,8 @@ email: teedang19@gmail.com
 description: "Tam T. Dang, what a badass."
 baseurl: ""
 url: "http://www.tamatojuice.com"
+github_username: teedang19
+twitter_username: tamatojuiice
 
 # Build settings
 markdown: kramdown
