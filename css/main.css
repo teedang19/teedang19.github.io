@@ -13,7 +13,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #fff;
+  background-color: #FCFCF0;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
@@ -50,7 +50,7 @@ a:hover   { color: #1F7ED1; }
 .site-title:hover,
 .site-title:visited {
   display: block;
-  color: #ffffff;
+  color: #FCFCF0;
   font-size: 28px;
   letter-spacing: -1px;
   float: left;
@@ -68,7 +68,7 @@ a:hover   { color: #1F7ED1; }
 
 .site-nav .page-link {
   margin-left: 20px;
-  color: #ffffff;
+  color: #FCFCF0;
   letter-spacing: -.5px;
 }
 
@@ -137,21 +137,27 @@ a:hover   { color: #1F7ED1; }
 
 .page-content {
   padding: 30px 0;
-  background-color: #ffffff;
+  background-color: #FCFCF0;
 }
 
 
 /* Home styles */
 /* ----------------------------------------------------------*/
-
-.home h1 { margin-bottom: 25px; font-size: 1.25em;}
+.home h1 {
+  font-size: 30px;
+  color: #818181;
+  letter-spacing: -1.75px;
+  line-height: 1;
+  font-weight: 500;
+  margin-bottom:12px;
+}
 
 .posts { list-style-type: none; }
 
-.posts li { margin-bottom: 30px; }
+.posts li { margin-bottom: 12px; }
 
 .posts .post-link {
-  font-size: 22px;
+  font-size: 18px;
   font-weight: bold;
   letter-spacing: .5px;
   line-height: 1;
@@ -171,6 +177,7 @@ a:hover   { color: #1F7ED1; }
 
 .post-header h1 {
   font-size: 30px;
+  color: #818181;
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 500;
@@ -185,7 +192,6 @@ a:hover   { color: #1F7ED1; }
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-
 
 .post-content h1,
 .post-content h2,
