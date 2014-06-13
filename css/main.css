@@ -67,7 +67,7 @@ a:hover   { color: #1F7ED1; }
 .site-nav .menu-icon { display: none; }
 
 .site-nav .page-link {
-  margin-right: 10px;
+  margin-left: 20px;
   color: #ffffff;
   letter-spacing: -.5px;
 }
