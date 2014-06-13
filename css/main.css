@@ -51,7 +51,7 @@ a:hover   { color: #1F7ED1; }
 .site-title:visited {
   display: block;
   color: #FCFCF0;
-  font-size: 28px;
+  font-size: 30px;
   letter-spacing: -1px;
   float: left;
   line-height: 56px;
@@ -191,7 +191,9 @@ a:hover   { color: #1F7ED1; }
 
 .post-content { margin: 0 0 30px; }
 
-.post-content > * { margin: 20px 0; }
+.post-content > * {
+  margin: 20px 0;
+}
 
 .post-content h1,
 .post-content h2,
