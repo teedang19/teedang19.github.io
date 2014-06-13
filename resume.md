@@ -24,7 +24,7 @@ I am a full-stack junior developer with experience building web applications. Cu
 
 #### **Projects**
 
-**[PingIt & PingIt Mobile](https://pinggit.herokuapp.com)**
+**[PingIt & PingIt Mobile](http://pinggit.herokuapp.com)**
 *[-- source](https://github.com/mdidier9/PingIt)*
 
 Rails application wherein users can create “pings” for social events. Users can navigate
