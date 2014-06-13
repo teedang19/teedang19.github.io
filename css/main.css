@@ -18,8 +18,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #69186E; text-decoration: none; }
-a:hover   { color: #BF5C99; }
+a         { color: #B24DB8; text-decoration: none; }
+a:hover   { color: #1F7ED1; }
 
 /* Utility */
 

@@ -30,7 +30,7 @@ I am a full-stack junior developer with experience building web applications. Cu
 Rails application wherein users can create “pings” for social events. Users can navigate
 pings on an interactive map and filter by event categories. Uses GoogleMaps, geolocation
 data, OAuth (Facebook), WebSockets, Delayed Jobs, and Redis. Also includes PingIt
-mobile: an integrated RubyMotion iOS application.
+mobile: an integrated RubyMotion iOS application.  Built in 8 days as a final project by a team of 5 students.
 
 ***
 
