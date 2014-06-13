@@ -1,0 +1,28 @@
+---
+layout: post
+title:  truthy
+date:   2014-05-11 12:09:07
+tags: Dev Bootcamp, programming, self-teaching
+---
+
+I think it is terribly poetic that programming languages operate on the concept of “truthy” && or “falsey.” What an accurate depiction of human reality. (Computers! Your precision is more profound than 0s and 1s. There is spiritual magic in all things seemingly systematic and concrete: math, logic, computer science - the brainchildren of humans; models by which, if we search long enough, we can surely express in one manner the indescribable reality we move through.)
+
+My life has never been less simple, less black-and-white than this strange period in which I am trying to learn a supposedly black-and-white topic.  I should have known life would mirror the art that sits in front of me.  When I started coding, I felt like I was straying from my first true love (yes, true love): literature, creative writing, poetry — the use of language as a model of life.  Handwriting is the most understated work of art, I observe everyone’s handwriting.  I majored in Creative Writing and French.  I started a memoir, a collection of personal essays, a few dozen shitty poems …. I thought of becoming a translator, an editor, a journalist, a starving poet.  I code far more hours now every week than I’ve ever written in that same span, and sometimes I feel guilty for that. Isn’t creative writing my true love?  My response to the innate desire for purpose? My rebellion and my repose … I’ve all but abandoned it.  But when I encounter these beautiful programming concepts, I think maybe not. The world defined as messages. Truthy, falsey. Self. Changing state. Behavior. Nil. Constants. Variables. Scripts. Something is either going on here, or I’m projecting my endless need for poetry onto a completely poetry-less machine.  I’ll let you know when I figure it out, man.
+
+In parting, I leave some stanzas of favorite poem of mine, which will shortly manifest a tattoo.
+
+Shall I part my hair behind? Do I dare to eat a peach?
+I shall wear white flannel trousers, and walk along the beach.
+I have heard the mermaids singing, each to each.
+
+I do not think that they will sing to me.
+
+I have seen them riding seaward on the waves
+Combing the white hair of the waves blown back
+When the wind blows the water white and black.
+
+We have lingered in the chambers of the sea
+By sea-girls wreathed with seaweed red and brown
+'Till human voices wake us, and we drown.
+
+"The Love Song of J. Alfred Prufock" — T.S. Eliot
