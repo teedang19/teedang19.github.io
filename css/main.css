@@ -18,7 +18,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #B24DB8; text-decoration: none; }
+a         { color: #A219A8; text-decoration: none; }
 a:hover   { color: #1F7ED1; }
 
 /* Utility */
@@ -67,7 +67,7 @@ a:hover   { color: #1F7ED1; }
 .site-nav .menu-icon { display: none; }
 
 .site-nav .page-link {
-  margin-left: 10px;
+  margin-right: 10px;
   color: #ffffff;
   letter-spacing: -.5px;
 }
