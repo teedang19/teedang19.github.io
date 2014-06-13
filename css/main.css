@@ -13,14 +13,13 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #fdfdfd;
+  background-color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+a         { color: #69186E; text-decoration: none; }
+a:hover   { color: #BF5C99; }
 
 /* Utility */
 
@@ -41,18 +40,18 @@ a:visited { color: #205caa; }
 /* Site header */
 
 .site-header {
-  border-top: 5px solid #333;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #510D54;
+  border-bottom: 1px solid #CE0E23;
   min-height: 56px;
-  background-color: white;
+  background-color: #CE0E23;
 }
 
 .site-title,
 .site-title:hover,
 .site-title:visited {
   display: block;
-  color: #333;
-  font-size: 26px;
+  color: #ffffff;
+  font-size: 28px;
   letter-spacing: -1px;
   float: left;
   line-height: 56px;
@@ -69,9 +68,10 @@ a:visited { color: #205caa; }
 
 .site-nav .page-link {
   margin-left: 20px;
-  color: #727272;
+  color: #ffffff;
   letter-spacing: -.5px;
 }
+
 
 /* Site footer */
 
@@ -137,28 +137,29 @@ a:visited { color: #205caa; }
 
 .page-content {
   padding: 30px 0;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h1 { margin-bottom: 25px; }
+.home h1 { margin-bottom: 25px; font-size: 1.25em;}
 
 .posts { list-style-type: none; }
 
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 24px;
-  letter-spacing: -1px;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: .5px;
   line-height: 1;
 }
 
 .posts .post-date {
   display: block;
-  font-size: 15px;
+  font-size: 17px;
   color: #818181;
 }
 
@@ -169,10 +170,10 @@ a:visited { color: #205caa; }
 .post-header { margin: 10px 0 30px; }
 
 .post-header h1 {
-  font-size: 42px;
+  font-size: 30px;
   letter-spacing: -1.75px;
   line-height: 1;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .post-header .meta {

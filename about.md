@@ -1,7 +1,7 @@
 ---
 layout: page
-title: bio
+title: about me
 permalink: /about/
 ---
 
-THIS IS ABOUT ME
+I believe language shapes reality. Also, my favorite word is **hobgoblin**.
