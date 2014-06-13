@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ready to tumbl
+title:  ready to tumbl (tumblr)
 date:   2013-06-28 12:09:07
 tags: Dev Bootcamp, programming, self-teaching
 ---

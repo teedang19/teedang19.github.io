@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  pairing cherry popped
+title:  pairing cherry popped (tumblr)
 date:   2014-01-07 19:30:11
 tags: Dev Bootcamp, programming
 ---

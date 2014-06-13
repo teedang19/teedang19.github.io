@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  on being a badass
+title:  on being a badass (tumblr)
 date:   2014-06-06 12:09:07
 tags: Dev Bootcamp, programming
 ---
