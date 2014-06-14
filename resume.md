@@ -5,6 +5,7 @@ permalink: /resume/
 ---
 
 #### **Tam T. Dang**
+[PDF download]({{ site.url }}/assets/TDang_Resume.pdf)
 
 I am a full-stack junior developer with experience building web applications. Currently seeking to be part of an experienced team eager to teach the highly-teachable.
 
