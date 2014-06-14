@@ -4,15 +4,14 @@ title: resume
 permalink: /resume/
 ---
 
-#### **Tam T. Dang**
+#### **Tam T. Dang**  
 [PDF download]({{ site.url }}/assets/TDang_Resume.pdf)
 
 I am a full-stack junior developer with experience building web applications. Currently seeking to be part of an experienced team eager to teach the highly-teachable.
 
 ***
 
-#### **Technical Skills and Practices**
-
+#### **Technical Skills and Practices**  
 + Ruby, Javascript (jQuery, AJAX)
 + Rails, Sinatra
 + RSpec, Capybara, Jasmine
@@ -26,8 +25,7 @@ I am a full-stack junior developer with experience building web applications. Cu
 #### **Projects**
 
 **[PingIt & PingIt Mobile](http://pinggit.herokuapp.com)**
-*[-- source](https://github.com/mdidier9/PingIt)*
-
+*[-- source](https://github.com/mdidier9/PingIt)*  
 Rails application wherein users can create “pings” for social events. Users can navigate
 pings on an interactive map and filter by event categories. Uses GoogleMaps, geolocation
 data, OAuth (Facebook), WebSockets, Delayed Jobs, and Redis. Also includes PingIt
@@ -38,13 +36,11 @@ mobile: an integrated RubyMotion iOS application.  Built in 8 days as a final pr
 #### **Education**
 
 **Dev Bootcamp - Chicago, IL**
-*(03/2014 - 05/2014)*
-
+*(03/2014 - 05/2014)*  
 Completed a 21 week intensive course (12 weeks remote preparatory work, 9 weeks
 onsite) in web development, focusing on Ruby on Rails.
 
 **American University - Washington, DC**
-*(09/2007 - 05/2009)*
-
+*(09/2007 - 05/2009)*  
 Attended as a Frederick Douglass Full-Scholarship Recipient and Honors Student,
 majoring in Creative Writing and French Language.
