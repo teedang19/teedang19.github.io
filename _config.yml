@@ -5,7 +5,7 @@ description: "daaang, my email address rocks."
 baseurl: ""
 url: "http://www.tamatojuice.com"
 github_username: teedang19
-twitter_username: tamatojuiice
+twitter_username: tamatojuice
 
 # Build settings
 markdown: kramdown
