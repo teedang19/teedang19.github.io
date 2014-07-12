@@ -7,7 +7,7 @@ permalink: /resume/
 #### **Tam T. Dang**  
 [PDF download]({{ site.url }}/assets/TDang_Resume.pdf)
 
-I am a full-stack developer, always happy to learn and teach.
+I am a full-stack developer, always eager to learn and teach.
 
 ***
 

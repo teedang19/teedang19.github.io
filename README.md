@@ -1,4 +1,4 @@
 teedang19.github.io
 ===================
 
-my personal site -- Jekyll
+my personal blog/website -- Jekyll
