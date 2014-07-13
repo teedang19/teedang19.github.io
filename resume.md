@@ -14,7 +14,8 @@ I am a full-stack developer, always eager to learn and teach.
 #### **Experience**
 
 **8Bit Studios - Chicago, IL**  
-*Junior Developer, (07/2014 - Present)*
+*Junior Developer, (07/2014 - Present)*  
+Develop full-stack web applications in a variety of languages on teams of 4-5. 
 
 ***
 
