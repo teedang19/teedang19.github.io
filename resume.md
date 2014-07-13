@@ -22,7 +22,7 @@ Develop full-stack web applications in a variety of languages on teams of 4-5.
 #### **Education**
 
 **Dev Bootcamp - Chicago, IL**  
-*Student & Peer Mentor, (03/2014 - 05/2014)*  
+*Student & Peer Mentor, (03/2014 - 06/2014)*  
 Completed a 21 week intensive course (12 weeks remote preparatory work, 9 weeks
 onsite) in web development, focusing on Ruby on Rails.
 
