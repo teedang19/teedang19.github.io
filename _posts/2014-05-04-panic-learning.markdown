@@ -15,4 +15,24 @@ These are things I exude like pillars of my ego .. the identity badges I wear pr
 
 We’re more than the sum of our actions, our feelings, all of the things we store in our houses and carry in bags.  It is a serious panic moment when we change the things we carry in our metaphysical bags.  I nearly fainted my first day alone in Chicago.  I don’t usually do these things.  I’ve never lived here before, never known these people before, never been on my own for too long.  I’ve been the same person for so long now, it was so easy and I did it well.  I was afraid for things to be different.  Now they’re different and I’m still afraid, I panic. But there’s learning to be done, there is growth to be had, and I am going to have it.
 
-"The Coming of Age" — Denis Johnson
+"I don't want you to be afraid  
+as we stand here losing  
+our lives, unable to speak,  
+soon to enter the dream  
+of once having touched  
+this portion, that smoothness  
+of flesh now buried dead  
+and having heard the lovely  
+tones ascending on a voice  
+merely speaking; there is  
+the chance there will be  
+the singing of the voiceless,  
+unraveling into the unenclosed  
+emptiness a silence  
+drawn taut so  
+slowly its  
+high music encounters  
+us before  
+it begins, and we are dancing."
+
+**"The Coming of Age" — Denis Johnson**
