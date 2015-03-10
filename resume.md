@@ -4,24 +4,26 @@ title: resume
 permalink: /resume/
 ---
 
-#### **Tam T. Dang**  
+#### **Tam T. Dang**
 [PDF download]({{ site.url }}/assets/TDang_Resume.pdf)
-
 I am a full-stack developer, always eager to learn and teach.
+
+![Firefly](http://i.imgur.com/sISGqEQ.gif)  
+*"You got a job, I can do it. Don't much care what it is."*
 
 ***
 
 #### **Experience**
 
-**8Bit Studios - Chicago, IL**  
-*Junior Developer, (07/2014 - Present)*  
-Develop full-stack web applications in a variety of languages on teams of 4-5. 
+**[8Bit Studios](http://www.eightbitstudios.com) - Chicago, IL**  
+*Web & Backend Developer, (07/2014 - Present)*  
+Develop full-stack applications in a variety of languages on teams of 4-5. 
 
 ***
 
 #### **Education**
 
-**Dev Bootcamp - Chicago, IL**  
+**[Dev Bootcamp](http://www.devbootcamp.com) - Chicago, IL**  
 *Student & Peer Mentor, (03/2014 - 06/2014)*  
 Completed a 21 week intensive course (12 weeks remote preparatory work, 9 weeks
 onsite) in web development, focusing on Ruby on Rails.
