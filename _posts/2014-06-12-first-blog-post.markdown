@@ -12,5 +12,5 @@ def hello
   puts "Hello, world!"
 end
 
-# self, you are SO original.
+# very original.
 {% endhighlight %}

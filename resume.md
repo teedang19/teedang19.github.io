@@ -4,9 +4,8 @@ title: resume
 permalink: /resume/
 ---
 
-#### **Tam T. Dang**
 [PDF download]({{ site.url }}/assets/TDang_Resume.pdf)
-I am a full-stack developer, always eager to learn and teach.
+I am a full-stack software engineer, always eager to learn and teach.
 
 ![Firefly](http://i.imgur.com/sISGqEQ.gif)  
 *"You got a job, I can do it. Don't much care what it is."*
@@ -15,29 +14,31 @@ I am a full-stack developer, always eager to learn and teach.
 
 #### **Experience**
 
+**[Reverb.com](http://www.reverb.com) - Chicago, IL**  
+*Software Engineer, (07/2015 - Present)*  
+Write, maintain, and expand core features that power the Reverb business, specializing in multi-currency transactions and payment processing. Ruby, Rails, React, Postgres, Elasticsearch, Go.
+
 **[8Bit Studios](http://www.eightbitstudios.com) - Chicago, IL**  
-*Web & Backend Developer, (07/2014 - Present)*  
-Develop full-stack applications in a variety of languages on teams of 4-5. 
+*Software Engineer, (07/2014 - 07/2015)*  
+Built and maintain applications in a variety of languages, ensuring client needs are met. Ruby, Rails, Postgres.
 
 ***
 
 #### **Education**
 
-**[Dev Bootcamp](http://www.devbootcamp.com) - Chicago, IL**  
+**Dev Bootcamp - Chicago, IL**  
 *Student & Peer Mentor, (03/2014 - 06/2014)*  
-Completed a 21 week intensive course (12 weeks remote preparatory work, 9 weeks
-onsite) in web development, focusing on Ruby on Rails.
+Completed a 21 week intensive course (12 weeks remote preparatory work, 9 weeks onsite) in web development, focusing on Ruby on Rails.
 
 **American University - Washington, DC**  
 *Undergraduate, (09/2007 - 05/2009)*  
-Attended as a Frederick Douglass Full-Scholarship Recipient and Honors Student,
-majoring in Creative Writing and French Language.
+Attended as a Frederick Douglass Full-Scholarship Recipient and Honors Student, majoring in Creative Writing and French Language.
 
 ***
 
 #### **Projects**
 
-**[PingIt & PingIt Mobile](https://github.com/mdidier9/PingIt)**  
+**[PingIt & PingIt Mobile (2014)](https://github.com/mdidier9/PingIt)**  
 Rails application wherein users can create “pings” for social events. Users can navigate
 pings on an interactive map and filter by event categories. Uses GoogleMaps, geolocation
 data, OAuth (Facebook), WebSockets, Delayed Jobs, and Redis. Also includes PingIt
