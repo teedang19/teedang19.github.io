@@ -4,7 +4,7 @@ title: resume
 permalink: /resume/
 ---
 
-[PDF download]({{ site.url }}/assets/TDang_Resume.pdf)
+[PDF download](/assets/TDang_Resume.pdf)
 I am a full-stack software engineer, always eager to learn and teach.
 
 ![Firefly](http://i.imgur.com/sISGqEQ.gif)  
