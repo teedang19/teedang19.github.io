@@ -11,15 +11,20 @@ html, body { height: 100%; }
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
+  color: #FFFFFF;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #FCFCF0;
+  background-color: #000000;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: 400;
+  color: #FFFFFF;
+}
 
-a         { color: #A219A8; text-decoration: none; }
-a:hover   { color: #1F7ED1; }
+a         { color: #D05ADF; text-decoration: none; }
+/* a:hover   { color: #1F7ED1; } */
 
 img {
   border-radius: 2px;
@@ -45,18 +50,17 @@ img {
 
 .site-header {
   border-top: 5px solid #510D54;
-  border-bottom: 1px solid #CE0E23;
+  border-bottom: 1px solid #C3073F;
   min-height: 56px;
-  background-color: #CE0E23;
+  background-color: #C3073F;
 }
 
 .site-title,
 .site-title:hover,
 .site-title:visited {
   display: block;
-  color: #FCFCF0;
+  color: #FFFFFF;
   font-size: 30px;
-  letter-spacing: -1px;
   float: left;
   line-height: 56px;
   position: relative;
@@ -71,9 +75,9 @@ img {
 .site-nav .menu-icon { display: none; }
 
 .site-nav .page-link {
+  font-weight: bold;
   margin-left: 20px;
-  color: #FCFCF0;
-  letter-spacing: -.5px;
+  color: #000000;
 }
 
 
@@ -87,7 +91,6 @@ img {
 .footer-heading {
   font-size: 18px;
   font-weight: 400;
-  letter-spacing: -.5px;
   margin-bottom: 15px;
 }
 
@@ -122,8 +125,7 @@ img {
 .site-footer li,
 .site-footer p {
   font-size: 15px;
-  letter-spacing: -.3px;
-  color: #828282;
+  color: #FFFFFF;
 }
 
 .github-icon-svg,
@@ -141,7 +143,7 @@ img {
 
 .page-content {
   padding: 30px 0;
-  background-color: #FCFCF0;
+  background-color: #000000;
 }
 
 
@@ -149,8 +151,7 @@ img {
 /* ----------------------------------------------------------*/
 .home h1 {
   font-size: 30px;
-  color: #818181;
-  letter-spacing: -1.75px;
+  color: #FFFFFF;
   line-height: 1;
   font-weight: 500;
   margin-bottom:12px;
@@ -170,7 +171,7 @@ img {
 .posts .post-date {
   display: block;
   font-size: 17px;
-  color: #818181;
+  color: #E0E0E0;
 }
 
 
@@ -181,15 +182,14 @@ img {
 
 .post-header h1 {
   font-size: 30px;
-  color: #818181;
-  letter-spacing: -1.75px;
+  color: #FFFFFF;
   line-height: 1;
   font-weight: 500;
 }
 
 .post-header .meta {
   font-size: 15px;
-  color: #818181;
+  color: #E0E0E0;
   margin-top: 5px;
 }
 
@@ -212,17 +212,14 @@ img {
 
 .post-content h2 {
   font-size: 32px;
-  letter-spacing: -1.25px;
 }
 
 .post-content h3 {
   font-size: 26px;
-  letter-spacing: -1px;
 }
 
 .post-content h4 {
   font-size: 20px;
-  letter-spacing: -1px;
 }
 
 .post-content blockquote {
@@ -230,7 +227,6 @@ img {
   padding-left: 20px;
   font-size: 18px;
   opacity: .6;
-  letter-spacing: -1px;
   font-style: italic;
   margin: 30px 0;
 }
@@ -274,7 +270,7 @@ img {
 .highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
-.highlight .k { font-weight: bold } /* Keyword */
+.highlight .k { font-weight: bold; color: #000000; } /* Keyword */
 .highlight .o { font-weight: bold } /* Operator */
 .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
@@ -398,6 +394,7 @@ img {
     text-align: right;
     line-height: 1.25;
     padding: 5px 10px;
+    font-weight: bold;
     margin: 0;
   }
 
