@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  first blog post
+title:  First Blog Post
 date:   2014-06-12 12:09:07
 tags: Dev Bootcamp, programming
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  panic learning (tumblr)
+title:  Panic Learning
 date:   2014-05-04 14:49:55
 tags: Dev Bootcamp, programming
 ---

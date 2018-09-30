@@ -1,10 +1,10 @@
 ---
 layout: page
-title: resume
+title: Resume
 permalink: /resume/
 ---
 
-[PDF download](/assets/TDang_Resume.pdf)
+[PDF download](/resume.pdf)
 I am a full-stack software engineer, always eager to learn and teach.
 
 ![Firefly](http://i.imgur.com/sISGqEQ.gif)  
@@ -16,11 +16,11 @@ I am a full-stack software engineer, always eager to learn and teach.
 
 **[Reverb.com](http://www.reverb.com) - Chicago, IL**  
 *Software Engineer, (07/2015 - Present)*  
-Write, maintain, and expand core features that power the Reverb business, specializing in multi-currency transactions and payment processing. Ruby, Rails, React, Postgres, Elasticsearch, Go.
+Develop, test, maintain, and expand the features and services that power the Reverb business. Primary focus is on checkout and single- or multi-currency transactions processing, including risk and fraud tolerance, both pay-in and pay-out. Ruby, Rails, React, and Go.
 
 **[8Bit Studios](http://www.eightbitstudios.com) - Chicago, IL**  
 *Software Engineer, (07/2014 - 07/2015)*  
-Built and maintain applications in a variety of languages, ensuring client needs are met. Ruby, Rails, Postgres.
+Build and maintain full-stack applications and APIs in a variety of languages, mostly using Rails and Javascript. Generally on 2-3 different client projects at one time.
 
 ***
 

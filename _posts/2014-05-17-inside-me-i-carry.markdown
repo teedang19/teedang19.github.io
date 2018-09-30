@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  inside me i carry (tumblr)
+title:  Inside Me I Carry
 date:   2014-05-17 12:09:07
 tags: Dev Bootcamp, programming, self-teaching
 ---
